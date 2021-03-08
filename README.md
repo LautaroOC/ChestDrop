@@ -1,6 +1,7 @@
 # ChestDrop
-Spawns a chest in random coordinates within 1000 blocks 
+# Spawns a chest in random coordinates within 1000 blocks 
 The chest contains some enderpearls, gold, food and blaze rods.
+
 Commands:
   -"chestdrop"
 
