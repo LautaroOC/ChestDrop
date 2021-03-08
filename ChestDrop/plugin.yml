@@ -1,0 +1,8 @@
+main: com.lauti.firstplugin.Main
+name: ChestDrop
+description: No description
+version: 1.0
+commands: 
+  ChestDrop:
+    aliases: [configuration]
+    description: Drop de cosas
